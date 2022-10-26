@@ -1,0 +1,44 @@
+
+h1 {
+  background-color: rgb(0, 72, 255);
+  text-align: center;
+  padding: 10px;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+}
+.sec {
+  text-align: center;
+  padding: 20px;
+}
+input,
+button {
+  padding: 12px 20px;
+  font-size: large;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+button {
+  background-color: rgb(0, 72, 255);
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+}
+span,
+p {
+  font-size: large;
+  font-weight: bold;
+}
+.loading {
+  display: none;
+}
+
+.sty {
+  background-color: rgb(0, 72, 255);
+  color: white;
+  font-weight: bold;
+  padding: 2px 10px;
+  border-radius: 4px;
+  margin-right: 10px;
+  margin-top: 5px;
+  display: inline-block;
+}
